@@ -1,0 +1,6 @@
+#This work was developed with Python v3.7.7
+numpy==v1.18.5
+pandas==v1.1.4
+matplotlib==v3.2.2
+scikit-learn==v0.23.1
+mpl-axes-aligner
